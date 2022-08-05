@@ -1,7 +1,7 @@
 import pandas as pd
 import cv2
 
-imageUrl = 'image01.jpg'
+imageUrl = 'image01.jpeg'
 clicked = False
 redValue = 0
 greenValue = 0
